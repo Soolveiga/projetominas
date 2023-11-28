@@ -29,7 +29,7 @@ li {
   padding-bottom: 32px; /*Espaçamento inferior*/
   padding-top: 32px;/*Espaçamento superior*/
   height: 60px; /*Altura*/
-  background-color: #724796; /*cor de fundo da nossa barra de navegação*/
+  background-color: #945c13; /*cor de fundo da nossa barra de navegação*/
 }
 
 .header-menu nav {
@@ -47,15 +47,15 @@ li {
 
 /*Pegando os itens com tag a de dentro da nossa lista*/
 .lista-menu li>a {
-  color: #FFF; /*Cor do texto*/
-  font-size: 18px; /*Tamanho da fonte*/
+  color: #c5ac97; /*Cor do texto*/
+  font-size: 16px; /*Tamanho da fonte*/
   text-decoration: inherit; /*tirando o sublinhado*/
 }
 
 .principal{
   height: 100vh; /*Altura*/
   display: flex;
-  background-color: #EAEAEA; /*Cor do fundo*/
+  background-color: #f2cfb4; /*Cor do fundo*/
 }
 
 /* O container é um componente do Bootstrap que garante que o seu layout vai ficar alinhado corretamente na página.
@@ -82,13 +82,13 @@ centro do browser. O container é invisível. */
 
 .nome-completo {
   font-size: 36px;
-  color: #ff4dbc;
+  color: #3d1d08;
   font-weight: 700; /*espessura*/
   height: 45px;
 }
 
 .profissao{
-  color: #C6B5D5;
+  color: #3d1d08;
   height: 60PX;
 }
 
@@ -106,7 +106,7 @@ centro do browser. O container é invisível. */
 
 .topico-principal {
   font-size: 36px;
-  color: #ff4dbc;
+  color: #080406;
 }
 
 .lista-item{
@@ -126,7 +126,7 @@ centro do browser. O container é invisível. */
 
 .lista-local{
   font-size: 18px;
-  color: #2F80ED;
+  color: #034ba9;
   
 }
 
@@ -139,14 +139,14 @@ centro do browser. O container é invisível. */
 }
 
 .rodape{
-  background-color: #724796;
+  background-color: #945c13;
   height: 300px;
   display: flex;
   align-items: center;
 }
 
 .links{
-  color: #FFF; 
+  color: #e4b066; 
   text-decoration: none;
 }
 
